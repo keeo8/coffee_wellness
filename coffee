@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+#will make date verification function
+#currently simple file with no functions
+
 echo "this is your daily destressor"
 sleep 1
 echo "please verify the date"
